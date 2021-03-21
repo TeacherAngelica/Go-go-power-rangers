@@ -1,20 +1,18 @@
 How to Play
-    f = open("How_To_Play", "r")
-    print(f.read())
     Content:
     - Player to choose game mode either 1 player or 2 player mode
     - Player to setup a team of units for battle (default is 3). 
     - Each unit has a unique name and attributes:
             health point (HP)
             attack point (ATK)
-            defence point (DEF)
+            defense point (DEF)
             experience point (EXP)
             and a rank (default is level 1).
 
         A unit can be chosen to be either one of the following character types:
         1. Troll – A strong attack but careless monster that has 50% chance of missing its target
-        2. Knight - A soldier with decent attack and strong defence
-        3. Mage - A spell caster with low attack/defence
+        2. Knight - A soldier with decent attack and strong defense
+        3. Mage - A spell caster with low attack/defense
         Each character type has different strengths in ATK and DEF point. In addition, a Mage has special
         ability to cast spells that can impact friendly and enemy units (eg Heal, Poison, Cure, Freeze).
     -just the numbers accordingly for more balance game play.
@@ -22,4 +20,4 @@ How to Play
             Level 1 Level 2 Level 3
             Health Point (HP) 40 45 50
             Attack Point (ATK) 7 8 12
-            Defence Point (DEF) 3 4 5
+            defense Point (DEF) 3 4 5

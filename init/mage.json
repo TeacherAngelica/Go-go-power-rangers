@@ -1,1 +1,1 @@
-{"name":"Mage","class":"mage","rank":1,"status":"alive","conditions":[],"special_abilities":["heal","poison","cure","freeze"],"attributes":{"experience":0,"health":30,"attack":3,"defence":2}}
+{"name":"Mage","class":"mage","rank":1,"status":"alive","conditions":[],"special_abilities":["heal","poison","cure","freeze"],"attributes":{"experience":0,"health":30,"attack":3,"defense":2}}

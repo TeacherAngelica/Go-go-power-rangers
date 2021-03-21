@@ -1,1 +1,1 @@
-{"name": "Knight", "class": "knight", "rank": 1, "status": "alive", "conditions": [], "special_abilities": [], "attributes": {"experience": 0, "health": 45, "attack": 5, "defence": 5}}
+{"name": "Knight", "class": "knight", "rank": 1, "status": "alive", "conditions": [], "special_abilities": [], "attributes": {"experience": 0, "health": 45, "attack": 5, "defense": 5}}
