@@ -1,23 +1,39 @@
 How to Play
+ 
     Content:
     - Player to choose game mode either 1 player or 2 player mode
     - Player to setup a team of units for battle (default is 3). 
     - Each unit has a unique name and attributes:
             health point (HP)
             attack point (ATK)
-            defense point (DEF)
+            defence point (DEF)
             experience point (EXP)
             and a rank (default is level 1).
 
         A unit can be chosen to be either one of the following character types:
-        1. Troll – A strong attack but careless monster that has 50% chance of missing its target
-        2. Knight - A soldier with decent attack and strong defense
-        3. Mage - A spell caster with low attack/defense
+        1. Troll - A strong attack but careless monster that has 50% chance of missing its target
+        2. Knight - A soldier with decent attack and strong defence
+        3. Mage - A spell caster with low attack/defence
         Each character type has different strengths in ATK and DEF point. In addition, a Mage has special
-        ability to cast spells that can impact friendly and enemy units (eg Heal, Poison, Cure, Freeze).
-    -just the numbers accordingly for more balance game play.
+        ability to cast spells that can impact friendly and enemy units (eg Heal, Poison, Cure, Freeze)
             Attribute Troll
             Level 1 Level 2 Level 3
             Health Point (HP) 40 45 50
             Attack Point (ATK) 7 8 12
-            defense Point (DEF) 3 4 5
+            Defence Point (DEF) 3 4 5
+           
+            Attribute Knight
+            Level 1 Level 2 Level 3
+            Health Point (HP) 45 50 60
+            Attack Point (ATK) 5 6 8
+            Defence Point (DEF) 5 6 8
+
+            Attribute Mage
+            Level 1 Level 2 Level 3
+            Health Point (HP) 30 35 40
+            Attack Point (ATK) 3 4 6
+            Defence Point (DEF) 2 3 5
+            Special Ability (Cast Spell) 
+	    Level 1: Heal +5HP Poison -3HP each turn Cure (remove poison) Freeze (unit lose 1 turn)
+	    Level 2: Heal +8HP Poison -5HP each turn Cure (remove poison) Freeze (unit lose 1 turn)
+	    Level 3: Heal +10HP Poison -8HP each turn Cure (remove poison) Freeze (unit lose 1 turn)
